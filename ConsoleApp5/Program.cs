@@ -11,7 +11,6 @@ namespace AsyncTest
     {
         class Worker
         {
-            // New project
             public int Id;
             public int SleepTimeout;
             public bool WriteToFile;
